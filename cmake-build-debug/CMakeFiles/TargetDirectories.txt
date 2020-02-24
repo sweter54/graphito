@@ -1,0 +1,3 @@
+C:/Users/21927/CLionProjects/grapito/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/21927/CLionProjects/grapito/cmake-build-debug/CMakeFiles/grapito.dir
+C:/Users/21927/CLionProjects/grapito/cmake-build-debug/CMakeFiles/edit_cache.dir
